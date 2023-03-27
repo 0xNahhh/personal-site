@@ -86,6 +86,7 @@ const App = () => {
               <li>subgraph (theGraph, graphClient, graphQL)</li>
             </ul>
 
+            <br/>
             Feel free to DM me on twitter if you want access to the testnet version
           </div>
 
